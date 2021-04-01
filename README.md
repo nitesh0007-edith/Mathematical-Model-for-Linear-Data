@@ -1,1 +1,1 @@
-# implementation-of-Cost-function-And-gradient-descent
+# Mathematical Model for Linear Model
