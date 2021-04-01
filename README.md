@@ -1,1 +1,1 @@
-# Mathematical Model for Linear Model
+# Mathematical Model for Linear Data
